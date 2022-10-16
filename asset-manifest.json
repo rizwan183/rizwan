@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/rizwan/static/css/main.017bf6ad.css",
+    "main.js": "/rizwan/static/js/main.5667e969.js",
+    "static/js/787.b13a4991.chunk.js": "/rizwan/static/js/787.b13a4991.chunk.js",
+    "static/media/bgIMG.png": "/rizwan/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/rizwan/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/profile.png": "/rizwan/static/media/profile.407f1669fe23b8fbee10.png",
+    "static/media/about03.png": "/rizwan/static/media/about03.b1bda16b111da5649e98.png",
+    "static/media/about04.png": "/rizwan/static/media/about04.ae717568b5ab8c009588.png",
+    "static/media/about02.png": "/rizwan/static/media/about02.22c489e15eb925beb738.png",
+    "static/media/redux.png": "/rizwan/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/rizwan/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/about01.png": "/rizwan/static/media/about01.efacfba6d3a578b7d45b.png",
+    "static/media/graphql.png": "/rizwan/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/mobile.png": "/rizwan/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/logo.png": "/rizwan/static/media/logo.0730ad42c81828af2ab8.png",
+    "static/media/email.png": "/rizwan/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/css.png": "/rizwan/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/rizwan/static/media/git.a54d3fa44e02f2f61e69.png",
+    "index.html": "/rizwan/index.html",
+    "static/media/circle.svg": "/rizwan/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.017bf6ad.css.map": "/rizwan/static/css/main.017bf6ad.css.map",
+    "main.5667e969.js.map": "/rizwan/static/js/main.5667e969.js.map",
+    "787.b13a4991.chunk.js.map": "/rizwan/static/js/787.b13a4991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.017bf6ad.css",
+    "static/js/main.5667e969.js"
+  ]
+}
